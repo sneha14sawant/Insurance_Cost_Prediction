@@ -11,6 +11,7 @@ Can you accurately predict insurance costs?
 
 #### To view Jupyter Notebook click [here](https://github.com/sneha14sawant/Insurance_Cost_Prediction/blob/f208dc36674b1bf00662d64a97667b0c57edb88d/Code/Regression%20assignment--Insurance%20costs%20prediction.ipynb)  
 
-#### ![Dashboard 1 (3)](https://github.com/sneha14sawant/Insurance_Cost_Prediction/assets/128956551/bba56e78-980d-46bf-8c63-c6b1ae5f23ca)
+#### To view Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/AnalysisofInsuranceCost/Dashboard1)    
+#### ![Dashboard 1 (3)](https://github.com/sneha14sawant/Insurance_Cost_Prediction/assets/128956551/bba56e78-980d-46bf-8c63-c6b1ae5f23ca)    
 
-#### To view Viz created by me on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/AnalysisofInsuranceCost/Dashboard1)
+
