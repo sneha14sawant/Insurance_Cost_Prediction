@@ -10,3 +10,5 @@ Can you accurately predict insurance costs?
 6. Show proper model diagonistics for validations.    
 
 #### To view Jupyter Notebook click [here](https://github.com/sneha14sawant/Insurance_Cost_Prediction/blob/f208dc36674b1bf00662d64a97667b0c57edb88d/Code/Regression%20assignment--Insurance%20costs%20prediction.ipynb)  
+
+##### To view Viz created by me on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/AnalysisofInsuranceCost/Dashboard1)
