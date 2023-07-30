@@ -4,7 +4,7 @@ Can you accurately predict insurance costs?
 
 1. Understand the Data.   
 2. Do proper Diagonistics of the Data.    
-3. Prepare reporg in Tableau based on the Inisghts gather from the data.    
+3. Prepare report in Tableau based on the Inisghts gather from the data.    
 4. Perform EDA on the dataset.    
 5. Build the Model to accurately predict the charges.   
 6. Show proper model diagonistics for validations.    
